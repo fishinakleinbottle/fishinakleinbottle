@@ -1,6 +1,6 @@
 ## Hi, I'm Sreeram
 
-I build technology at [Noora Health](https://www.noorahealth.org), where we train family
+I lead the engineering team and build technology at [Noora Health](https://www.noorahealth.org), where we train family
 caregivers across India and Bangladesh. In practice that means a lot of WhatsApp infrastructure
 and a lot of content tooling.
 
