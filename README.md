@@ -46,21 +46,21 @@ I added the rosters that were previously buried in report PDFs: 490 members acro
 ## What I've built
 
 <details>
-<summary><strong><a href="https://github.com/CommonerLLP/commoner-probe">commoner-probe</a></strong> <a href="https://github.com/CommonerLLP/commoner-probe/stargazers"><img src="https://img.shields.io/github/stars/CommonerLLP/commoner-probe?style=social" alt="stars"></a> — handles acquisition for everything we build at CommonerLLP</summary>
+<summary><strong><a href="https://github.com/CommonerLLP/commoner-probe">commoner-probe</a></strong> <a href="https://pypi.org/project/commoner-probe/"><img src="https://img.shields.io/pypi/v/commoner-probe" alt="PyPI"></a> — handles acquisition for everything we build at CommonerLLP</summary>
 
-Public disclosures sit on undocumented portals with no bulk export and PDFs you can't read programmatically. This deals with that part so the analysis code doesn't have to.
+Public disclosures sit on undocumented portals with no bulk export and PDFs you can't read programmatically. This deals with that part so the analysis code doesn't have to. On [PyPI](https://pypi.org/project/commoner-probe/).
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/noorahealthtech/dots-mcp">dots-mcp</a></strong> <a href="https://github.com/noorahealthtech/dots-mcp/stargazers"><img src="https://img.shields.io/github/stars/noorahealthtech/dots-mcp?style=social" alt="stars"></a> — puts DOTS, the knowledge platform we use at Noora Health, behind a chat interface using MCP</summary>
+<summary><strong><a href="https://github.com/noorahealthtech/dots-mcp">dots-mcp</a></strong> — puts <a href="https://getdots.in/">DOTS</a>, the knowledge platform we use at Noora Health, behind a chat interface using <a href="https://modelcontextprotocol.io">MCP</a></summary>
 
 The model gets a set of retrieval tools and decides what to search for itself, so the whole knowledge base never has to fit in the context window. It runs in mock mode without credentials, which means you can wire it into Claude and watch the tool calls work before you have a token. Built under [@noorahealthtech](https://github.com/noorahealthtech).
 
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/fishinakleinbottle/whatsapp-link-parser">whatsapp-link-parser</a></strong> <a href="https://github.com/fishinakleinbottle/whatsapp-link-parser/stargazers"><img src="https://img.shields.io/github/stars/fishinakleinbottle/whatsapp-link-parser?style=social" alt="stars"></a> <a href="https://pypi.org/project/whatsapp-link-parser/"><img src="https://img.shields.io/pypi/v/whatsapp-link-parser" alt="PyPI"></a> — extracts, classifies, and enriches links from WhatsApp chat exports</summary>
+<summary><strong><a href="https://github.com/fishinakleinbottle/whatsapp-link-parser">whatsapp-link-parser</a></strong> <a href="https://pypi.org/project/whatsapp-link-parser/"><img src="https://img.shields.io/pypi/v/whatsapp-link-parser" alt="PyPI"></a> — extracts, classifies, and enriches links from WhatsApp chat exports</summary>
 
 Works as a CLI or a Python library, on [PyPI](https://pypi.org/project/whatsapp-link-parser/). It parses several WhatsApp export formats, tags links by type, and pulls page titles and descriptions so a chat's bookmarks are actually searchable.
 
